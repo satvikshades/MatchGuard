@@ -1,0 +1,121 @@
+share_id,date,client_id,profile_id,matchmaker,outcome,feedback_text
+S001,2026-09-01,C03,P128,B,rejected,No chemistry
+S002,2026-09-01,C03,P027,B,rejected,didn't click
+S003,2026-09-01,C09,P008,B,rejected,Came across as arrogant on the call
+S004,2026-09-01,C10,P004,B,accepted,
+S005,2026-09-02,C04,P142,A,accepted,
+S006,2026-09-02,C09,P045,B,rejected,Feel nahi aaya
+S007,2026-09-03,C09,P186,A,rejected,"Idk, something about him didnt feel right"
+S008,2026-09-03,C10,P158,B,accepted,
+S009,2026-09-04,C05,P014,B,rejected,"Boring conversation, very dry"
+S010,2026-09-04,C08,P156,B,accepted,
+S011,2026-09-05,C01,P066,B,rejected,"Daaru party wala lagta hai, every weekend out drinking. Nahi yaar."
+S012,2026-09-05,C02,P080,A,rejected,No chemistry
+S013,2026-09-05,C03,P033,A,rejected,"Smoker hai yaar, I had said no smoking in my form itself. Also no spark tbh."
+S014,2026-09-05,C03,P040,A,accepted,
+S015,2026-09-05,C04,P137,B,rejected,Came across as arrogant on the call
+S016,2026-09-05,C05,P073,B,rejected,kaafi chhota hai height mein. Also felt a bit off on the call.
+S017,2026-09-05,C07,P098,B,rejected,"Kids nahi chahiye usko? I definitely want children, mentioned it"
+S018,2026-09-05,C09,P118,A,rejected,He smokes. I clearly mentioned no smokers. Also felt a bit off on the call.
+S019,2026-09-06,C06,P093,A,rejected,Height is less than what I asked for
+S020,2026-09-06,C08,P168,A,rejected,Came across as arrogant on the call
+S021,2026-09-06,C10,P099,B,rejected,"She was rude to the waiter apparently, red flag"
+S022,2026-09-07,C04,P013,B,accepted,
+S023,2026-09-07,C05,P002,B,rejected,not for me
+S024,2026-09-07,C09,P046,B,rejected,"Not wanting children is a deal breaker, I said this. Also no spark tbh."
+S025,2026-09-08,C01,P200,B,rejected,Smokes!! This was literally my first condition
+S026,2026-09-08,C02,P035,B,rejected,Bahut akdu hai
+S027,2026-09-08,C04,P035,A,rejected,"Not willing to shift to Hyderabad, mentioned this clearly. Also felt a bit off on the call."
+S028,2026-09-08,C05,P010,A,accepted,
+S029,2026-09-08,C07,P114,B,rejected,"Very traditional outlook, not my wavelength"
+S030,2026-09-08,C08,P122,B,rejected,"too young yaar, I said 26+"
+S031,2026-09-09,C09,P173,B,accepted,
+S032,2026-09-09,C09,P083,A,accepted,
+S033,2026-09-09,C09,P116,B,rejected,short tempered from what I heard
+S034,2026-09-10,C01,P047,A,accepted,
+S035,2026-09-10,C02,P025,A,accepted,
+S036,2026-09-10,C03,P066,B,rejected,"Came across as arrogant, too much attitude"
+S037,2026-09-10,C04,P117,B,rejected,"I don't want someone who drinks, it's in my preferences. Also no spark tbh."
+S038,2026-09-10,C07,P040,A,rejected,Physically not my type
+S039,2026-09-11,C02,P134,B,rejected,"Too career-focused, she'd have no time for a relationship. Works 80 hour weeks."
+S040,2026-09-11,C03,P175,B,rejected,not for me
+S041,2026-09-11,C06,P026,B,rejected,"Too far, I'm not moving to Chennai"
+S042,2026-09-11,C08,P060,A,rejected,"pata nahi, kuch missing hai"
+S043,2026-09-11,C08,P196,B,rejected,nahi jama
+S044,2026-09-12,C01,P094,A,accepted,
+S045,2026-09-12,C06,P056,B,accepted,
+S046,2026-09-12,C07,P054,B,accepted,
+S047,2026-09-12,C08,P181,A,accepted,
+S048,2026-09-13,C01,P005,B,rejected,"He drinks quite a lot going by his insta, not comfortable with that"
+S049,2026-09-13,C01,P057,B,rejected,Height is less than what I asked for
+S050,2026-09-13,C02,P121,A,accepted,
+S051,2026-09-13,C04,P110,A,rejected,No chemistry
+S052,2026-09-13,C06,P168,A,rejected,"Doesn't smoke which is good, but conversation was so dry"
+S053,2026-09-13,C08,P126,A,accepted,
+S054,2026-09-14,C02,P126,B,rejected,Too much attitude
+S055,2026-09-14,C05,P045,A,accepted,
+S056,2026-09-14,C07,P161,B,rejected,nakhre bahut hai
+S057,2026-09-15,C02,P183,B,accepted,
+S058,2026-09-15,C10,P079,A,rejected,"Different religion, I mentioned I want someone Hindu or Sikh"
+S059,2026-09-16,C07,P149,B,rejected,"I don't want someone who drinks, it's in my preferences"
+S060,2026-09-16,C07,P059,B,rejected,"saw a cigarette in his pics, thats a straight no. I told you this. Also no spark tbh."
+S061,2026-09-17,C01,P064,B,accepted,
+S062,2026-09-17,C05,P182,A,rejected,ghar wale bahut strict lage
+S063,2026-09-17,C05,P046,B,rejected,Too serious and honestly no chemistry
+S064,2026-09-17,C06,P078,B,rejected,Bahut akdu hai
+S065,2026-09-17,C10,P124,A,rejected,Too dependent on her parents for every decision
+S066,2026-09-17,C10,P103,B,rejected,"She's divorced, I said I'm not comfortable with that"
+S067,2026-09-18,C01,P019,A,accepted,
+S068,2026-09-18,C02,P079,B,rejected,Photos look very different from real life
+S069,2026-09-18,C04,P152,B,rejected,"She's too short, I said 155 cm minimum"
+S070,2026-09-18,C07,P145,A,accepted,
+S071,2026-09-18,C07,P034,A,rejected,No chemistry
+S072,2026-09-19,C03,P001,A,accepted,
+S073,2026-09-19,C04,P109,A,rejected,short tempered from what I heard
+S074,2026-09-19,C04,P096,B,rejected,"Idk, something about her didnt feel right"
+S075,2026-09-20,C02,P158,A,accepted,
+S076,2026-09-20,C05,P082,A,rejected,"saw a cigarette in his pics, thats a straight no. I told you this. Also no spark tbh."
+S077,2026-09-20,C05,P049,B,rejected,I told you I'm not planning to have kids. He clearly wants a family with children soon.
+S078,2026-09-21,C01,P116,A,rejected,Not attractive to me honestly
+S079,2026-09-21,C01,P045,B,rejected,"Can't explain, just no"
+S080,2026-09-21,C03,P045,A,rejected,"pata nahi, kuch missing hai"
+S081,2026-09-21,C04,P189,B,rejected,"She doesn't want kids, that's non-negotiable for me"
+S082,2026-09-21,C09,P044,A,accepted,
+S083,2026-09-21,C10,P192,A,rejected,"Can't explain, just no"
+S084,2026-09-22,C03,P184,A,rejected,"Idk, something about him didnt feel right"
+S085,2026-09-22,C06,P129,B,rejected,Just not feeling it
+S086,2026-09-22,C07,P006,A,rejected,Age gap is too much
+S087,2026-09-22,C08,P096,A,accepted,
+S088,2026-09-22,C08,P121,A,rejected,ghar wale bahut strict lage
+S089,2026-09-22,C08,P107,A,rejected,Not attractive to me honestly
+S090,2026-09-22,C10,P078,A,accepted,
+S091,2026-09-23,C03,P095,B,accepted,
+S092,2026-09-23,C06,P130,A,accepted,
+S093,2026-09-23,C07,P094,B,rejected,Too serious and honestly no chemistry
+S094,2026-09-23,C10,P075,A,rejected,Came across as arrogant on the call
+S095,2026-09-24,C06,P143,B,rejected,Family seems very orthodox
+S096,2026-09-24,C06,P055,A,accepted,
+S097,2026-09-25,C02,P029,B,rejected,"She's a smoker - deal breaker, already mentioned it"
+S098,2026-09-26,C08,P032,B,rejected,"4'10""? I asked for someone taller"
+S099,2026-09-26,C10,P036,B,rejected,"4'11""? I asked for someone taller"
+S100,2026-09-27,C09,P157,B,accepted,
+S101,2026-09-28,C03,P094,A,rejected,vibe nahi aayi
+S102,2026-09-28,C05,P069,B,accepted,
+S103,2026-09-28,C06,P089,B,rejected,"She doesn't want kids, that's non-negotiable for me. Also felt a bit off on the call."
+S104,2026-09-28,C09,P081,A,rejected,ghar wale bahut strict lage
+S105,2026-09-28,C10,P072,B,rejected,"Nice person but no spark, also bit arrogant"
+S106,2026-09-28,C10,P048,B,rejected,"Too old for me, 36 is outside my range"
+S107,2026-09-29,C01,P159,B,rejected,"Chennai mein settle nahi hona mujhe, and he won't move"
+S108,2026-09-29,C01,P041,B,rejected,not feelin it
+S109,2026-09-29,C06,P004,B,rejected,didn't click
+S110,2026-09-29,C06,P162,B,accepted,
+S111,2026-09-29,C07,P115,A,accepted,
+S112,2026-09-29,C08,P144,B,rejected,"Doesn't smoke which is good, but conversation was so dry"
+S113,2026-09-30,C02,P196,A,accepted,
+S114,2026-09-30,C02,P084,B,rejected,Long distance won't work and she won't relocate
+S115,2026-09-30,C03,P091,B,rejected,"doesnt drink, decent person, but no spark"
+S116,2026-09-30,C04,P162,A,rejected,"Talks only about herself, zero curiosity about me"
+S117,2026-09-30,C04,P121,A,accepted,
+S118,2026-09-30,C05,P044,B,accepted,
+S119,2026-09-30,C05,P169,A,rejected,No chemistry
+S120,2026-09-30,C09,P132,B,rejected,"He's too short, I said 170 cm minimum"

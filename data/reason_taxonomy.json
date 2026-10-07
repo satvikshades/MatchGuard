@@ -1,0 +1,129 @@
+{
+  "age": {
+    "description": "Too old / too young / age gap",
+    "examples": [
+      "too old for me",
+      "umar zyada hai",
+      "age gap is too much"
+    ]
+  },
+  "height": {
+    "description": "Height too short or tall",
+    "examples": [
+      "too short",
+      "height kam hai",
+      "I asked for someone taller"
+    ]
+  },
+  "location_relocation": {
+    "description": "Distance, city, unwilling to relocate",
+    "examples": [
+      "too far",
+      "not moving to Pune",
+      "shift nahi karna"
+    ]
+  },
+  "religion_community": {
+    "description": "Religion, caste, community, kundli",
+    "examples": [
+      "different religion",
+      "caste issue",
+      "inter-religion"
+    ]
+  },
+  "diet": {
+    "description": "Veg / non-veg / vegan / Jain food",
+    "examples": [
+      "he's non-veg",
+      "eats meat",
+      "pure veg chahiye"
+    ]
+  },
+  "education": {
+    "description": "Degree or qualification level",
+    "examples": [
+      "only a graduate",
+      "less qualified",
+      "padhai kam hai"
+    ]
+  },
+  "career_income": {
+    "description": "Job, ambition, income, work-life balance",
+    "examples": [
+      "too career-focused",
+      "earns less",
+      "job not stable"
+    ]
+  },
+  "smoking": {
+    "description": "Smokes cigarettes, vapes, hookah",
+    "examples": [
+      "he smokes",
+      "sutta peeta hai",
+      "smoker"
+    ]
+  },
+  "drinking": {
+    "description": "Drinks alcohol",
+    "examples": [
+      "drinks every weekend",
+      "daaru peeta hai",
+      "social drinker"
+    ]
+  },
+  "children": {
+    "description": "Wants / doesn't want kids",
+    "examples": [
+      "doesn't want kids",
+      "bacche nahi chahiye",
+      "wants kids soon"
+    ]
+  },
+  "marital_status": {
+    "description": "Divorced, widowed, second marriage",
+    "examples": [
+      "he's divorced",
+      "second marriage",
+      "divorcee"
+    ]
+  },
+  "family_values": {
+    "description": "Family set-up, traditional vs modern, in-laws",
+    "examples": [
+      "joint family",
+      "mama's boy",
+      "very orthodox"
+    ]
+  },
+  "personality": {
+    "description": "Temperament, attitude, conversation",
+    "examples": [
+      "arrogant",
+      "boring conversation",
+      "akdu hai"
+    ]
+  },
+  "appearance": {
+    "description": "Looks, photos, style, physical attraction",
+    "examples": [
+      "not attractive",
+      "photos look different",
+      "dress sense"
+    ]
+  },
+  "vague_no_spark": {
+    "description": "No concrete reason given",
+    "examples": [
+      "no spark",
+      "not feeling it",
+      "kuch missing hai"
+    ]
+  },
+  "other": {
+    "description": "Anything that fits no other category",
+    "examples": [
+      "timing is bad",
+      "already talking to someone"
+    ]
+  }
+}

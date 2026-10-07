@@ -1,0 +1,9 @@
+streamlit>=1.38
+pandas>=2.0
+pydantic>=2.5
+python-dotenv>=1.0
+pytest>=8.0
+
+# Optional LLM add-on - install ONE of these only if you have an API key:
+# anthropic      # for ANTHROPIC_API_KEY
+# google-genai   # for GEMINI_API_KEY

@@ -1,0 +1,400 @@
+[
+  {
+    "id": "C01",
+    "name": "Priya",
+    "age": 29,
+    "gender": "F",
+    "city": "Mumbai",
+    "religion": "Hindu",
+    "community": "Marathi",
+    "diet": "non-vegetarian",
+    "education": "Masters",
+    "profession": "Brand strategist",
+    "interests": [
+      "travel",
+      "books",
+      "food"
+    ],
+    "stated_preferences": {
+      "age_min": 29,
+      "age_max": 36,
+      "height_min_cm": 168,
+      "cities_ok": [
+        "Mumbai",
+        "Pune"
+      ],
+      "open_to_relocation": false,
+      "religion": [
+        "Hindu",
+        "Jain"
+      ],
+      "diet": "any",
+      "education_min": "Bachelors"
+    },
+    "deal_breakers": {
+      "smoking": true,
+      "drinking": null,
+      "wants_children": "yes",
+      "divorced_ok": true
+    },
+    "about": "I want someone who is kind and grounded, and who actually listens. I love to travel and would like a partner who's up for spontaneous weekend trips. Books and long conversations over chai matter more to me than fancy dinners. I'm close to my parents and I'd like someone who respects that."
+  },
+  {
+    "id": "C02",
+    "name": "Rohan",
+    "age": 32,
+    "gender": "M",
+    "city": "Bangalore",
+    "religion": "Hindu",
+    "community": "Kannadiga",
+    "diet": "non-vegetarian",
+    "education": "Masters",
+    "profession": "Engineering manager",
+    "interests": [
+      "fitness",
+      "music",
+      "outdoors"
+    ],
+    "stated_preferences": {
+      "age_min": 26,
+      "age_max": 32,
+      "height_min_cm": 152,
+      "cities_ok": [
+        "Bangalore",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "open_to_relocation": false,
+      "religion": "any",
+      "diet": "any",
+      "education_min": "Bachelors"
+    },
+    "deal_breakers": {
+      "smoking": true,
+      "drinking": false,
+      "wants_children": "open",
+      "divorced_ok": true
+    },
+    "about": "I'm looking for a partner, not a co-worker - someone who has a life outside work and enjoys slow Sundays. I run and trek a lot, so it would be great if she enjoys the outdoors too. Music is a big part of my life. I'd love someone warm, funny and secure in herself."
+  },
+  {
+    "id": "C03",
+    "name": "Ananya",
+    "age": 28,
+    "gender": "F",
+    "city": "Delhi",
+    "religion": "Hindu",
+    "community": "Punjabi",
+    "diet": "non-vegetarian",
+    "education": "Masters",
+    "profession": "UX researcher",
+    "interests": [
+      "movies",
+      "art",
+      "food"
+    ],
+    "stated_preferences": {
+      "age_min": 28,
+      "age_max": 35,
+      "height_min_cm": 170,
+      "cities_ok": [
+        "Delhi",
+        "Gurgaon"
+      ],
+      "open_to_relocation": false,
+      "religion": [
+        "Hindu",
+        "Sikh"
+      ],
+      "diet": "any",
+      "education_min": "Masters"
+    },
+    "deal_breakers": {
+      "smoking": true,
+      "drinking": false,
+      "wants_children": "open",
+      "divorced_ok": false
+    },
+    "about": "Honestly I'm not sure what I want, I'll know it when I see it. Someone confident but not arrogant. Someone who makes me laugh. I like movies, art and good food."
+  },
+  {
+    "id": "C04",
+    "name": "Arjun",
+    "age": 31,
+    "gender": "M",
+    "city": "Mumbai",
+    "religion": "Hindu",
+    "community": "Gujarati",
+    "diet": "vegetarian",
+    "education": "Bachelors",
+    "profession": "Family business (textiles)",
+    "interests": [
+      "travel",
+      "movies",
+      "food"
+    ],
+    "stated_preferences": {
+      "age_min": 25,
+      "age_max": 31,
+      "height_min_cm": 155,
+      "cities_ok": [
+        "Mumbai",
+        "Ahmedabad"
+      ],
+      "open_to_relocation": false,
+      "religion": [
+        "Hindu",
+        "Jain"
+      ],
+      "diet": [
+        "vegetarian",
+        "vegan"
+      ],
+      "education_min": "Bachelors"
+    },
+    "deal_breakers": {
+      "smoking": true,
+      "drinking": true,
+      "wants_children": "yes",
+      "divorced_ok": true
+    },
+    "about": "I'm a vegetarian foodie and I'd love someone who enjoys cooking together. Family is important to me - I'm looking for someone who values it too but also has her own opinions. I love travelling and watching films on weekends."
+  },
+  {
+    "id": "C05",
+    "name": "Kavya",
+    "age": 30,
+    "gender": "F",
+    "city": "Hyderabad",
+    "religion": "Hindu",
+    "community": "Telugu",
+    "diet": "non-vegetarian",
+    "education": "PhD",
+    "profession": "Cardiologist",
+    "interests": [
+      "books",
+      "art",
+      "volunteering"
+    ],
+    "stated_preferences": {
+      "age_min": 30,
+      "age_max": 37,
+      "height_min_cm": 170,
+      "cities_ok": [
+        "Hyderabad",
+        "Bangalore",
+        "Chennai"
+      ],
+      "open_to_relocation": true,
+      "religion": "any",
+      "diet": "any",
+      "education_min": "Masters"
+    },
+    "deal_breakers": {
+      "smoking": true,
+      "drinking": false,
+      "wants_children": "no",
+      "divorced_ok": true
+    },
+    "about": "I'm a doctor and my work is demanding, so I need someone who is genuinely supportive of a career woman. I'm not planning to have children, so please only people who are okay with that. I enjoy reading, art galleries and weekend volunteering."
+  },
+  {
+    "id": "C06",
+    "name": "Vikram",
+    "age": 34,
+    "gender": "M",
+    "city": "Delhi",
+    "religion": "Sikh",
+    "community": "Jat Sikh",
+    "diet": "non-vegetarian",
+    "education": "Bachelors",
+    "profession": "Gym owner",
+    "interests": [
+      "fitness",
+      "music",
+      "dance"
+    ],
+    "stated_preferences": {
+      "age_min": 27,
+      "age_max": 33,
+      "height_min_cm": 155,
+      "cities_ok": [
+        "Delhi",
+        "Gurgaon",
+        "Jaipur"
+      ],
+      "open_to_relocation": false,
+      "religion": [
+        "Sikh",
+        "Hindu"
+      ],
+      "diet": "any",
+      "education_min": "Bachelors"
+    },
+    "deal_breakers": {
+      "smoking": true,
+      "drinking": false,
+      "wants_children": "yes",
+      "divorced_ok": true
+    },
+    "about": "Looking for someone with a big laugh and a bigger heart. I'm a fitness person and love bhangra nights with my friends. Family means everything to me and I want kids someday. Someone independent who still enjoys a loud family dinner."
+  },
+  {
+    "id": "C07",
+    "name": "Meera",
+    "age": 27,
+    "gender": "F",
+    "city": "Chennai",
+    "religion": "Hindu",
+    "community": "Tamil",
+    "diet": "vegetarian",
+    "education": "Masters",
+    "profession": "Chartered accountant",
+    "interests": [
+      "music",
+      "spirituality",
+      "books"
+    ],
+    "stated_preferences": {
+      "age_min": 27,
+      "age_max": 33,
+      "height_min_cm": 168,
+      "cities_ok": [
+        "Chennai",
+        "Bangalore"
+      ],
+      "open_to_relocation": false,
+      "religion": [
+        "Hindu"
+      ],
+      "diet": [
+        "vegetarian",
+        "eggetarian"
+      ],
+      "education_min": "Masters"
+    },
+    "deal_breakers": {
+      "smoking": true,
+      "drinking": true,
+      "wants_children": "yes",
+      "divorced_ok": false
+    },
+    "about": "I'm a Carnatic music enthusiast and fairly spiritual. I'd like someone gentle, patient and kind who respects tradition but is not rigid. A vegetarian household is important to me. I love reading and quiet evenings."
+  },
+  {
+    "id": "C08",
+    "name": "Aditya",
+    "age": 33,
+    "gender": "M",
+    "city": "Pune",
+    "religion": "Hindu",
+    "community": "Marathi",
+    "diet": "non-vegetarian",
+    "education": "Masters",
+    "profession": "Product designer",
+    "interests": [
+      "outdoors",
+      "travel",
+      "pets"
+    ],
+    "stated_preferences": {
+      "age_min": 26,
+      "age_max": 33,
+      "height_min_cm": 155,
+      "cities_ok": [
+        "Pune",
+        "Mumbai"
+      ],
+      "open_to_relocation": true,
+      "religion": "any",
+      "diet": "any",
+      "education_min": "Bachelors"
+    },
+    "deal_breakers": {
+      "smoking": false,
+      "drinking": false,
+      "wants_children": "open",
+      "divorced_ok": true
+    },
+    "about": "I trek almost every weekend in the Sahyadris and have a dog named Biscuit. I want a partner who is curious, adventurous and down to earth. Someone who loves dogs and would happily come on a road trip at 5 am."
+  },
+  {
+    "id": "C09",
+    "name": "Sneha",
+    "age": 31,
+    "gender": "F",
+    "city": "Kolkata",
+    "religion": "Hindu",
+    "community": "Bengali",
+    "diet": "non-vegetarian",
+    "education": "Masters",
+    "profession": "Journalist",
+    "interests": [
+      "books",
+      "movies",
+      "food",
+      "art"
+    ],
+    "stated_preferences": {
+      "age_min": 31,
+      "age_max": 38,
+      "height_min_cm": 170,
+      "cities_ok": [
+        "Kolkata",
+        "Bangalore",
+        "Mumbai"
+      ],
+      "open_to_relocation": false,
+      "religion": "any",
+      "diet": "any",
+      "education_min": "Masters"
+    },
+    "deal_breakers": {
+      "smoking": true,
+      "drinking": false,
+      "wants_children": "yes",
+      "divorced_ok": true
+    },
+    "about": "Looking for an intellectually curious man who reads and can hold an argument without taking it personally. I love adda over fish curry, old films and theatre. Kindness and a sense of humour are non-negotiable."
+  },
+  {
+    "id": "C10",
+    "name": "Karan",
+    "age": 30,
+    "gender": "M",
+    "city": "Gurgaon",
+    "religion": "Hindu",
+    "community": "Punjabi",
+    "diet": "non-vegetarian",
+    "education": "Bachelors",
+    "profession": "Sales lead",
+    "interests": [
+      "fitness",
+      "travel",
+      "food"
+    ],
+    "stated_preferences": {
+      "age_min": 25,
+      "age_max": 30,
+      "height_min_cm": 158,
+      "cities_ok": [
+        "Gurgaon",
+        "Delhi"
+      ],
+      "open_to_relocation": true,
+      "religion": [
+        "Hindu",
+        "Sikh"
+      ],
+      "diet": "any",
+      "education_min": "Bachelors"
+    },
+    "deal_breakers": {
+      "smoking": false,
+      "drinking": false,
+      "wants_children": "yes",
+      "divorced_ok": false
+    },
+    "about": "I'm an easy-going guy who loves food, travel and cricket. I'd like someone ambitious and fun, who enjoys trying new places. Family-oriented but not old-fashioned."
+  }
+]
