@@ -70,6 +70,16 @@ def toggle_send(cid: str, pid: str):
         lst.remove(pid)
 
 
+def add_manual(cid: str, pid: str):
+    # Runs as an on_click callback, i.e. before widgets are created, so the
+    # Tab 1 checkbox and the Tab 2 selectbox can still be updated safely.
+    lst = ss.send_list.setdefault(cid, [])
+    if pid not in lst:
+        lst.append(pid)
+    ss[f"chk_{cid}_{pid}"] = True
+    ss[f"manual_{cid}"] = "Choose a profile..."
+
+
 def forget_widgets(prefix: str):
     for k in [k for k in ss.keys() if str(k).startswith(prefix)]:
         del ss[k]
@@ -212,10 +222,7 @@ with tab2:
     manual = "" if choice.startswith("Choose") else choice.split(" · ")[0]
     a2.write("")
     a2.write("")
-    if a2.button("Add", disabled=not manual):
-        ss.send_list.setdefault(CLIENT.id, []).append(manual)
-        ss[f"chk_{CLIENT.id}_{manual}"] = True
-        st.rerun()
+    a2.button("Add", disabled=not manual, on_click=add_manual, args=(CLIENT.id, manual))
 
     send = ss.send_list.get(CLIENT.id, [])
     if not send:
